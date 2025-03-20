@@ -1,0 +1,5 @@
+Packing Type: HCP
+Room Size: (8, 7, 3) m^3
+Ball Diameter: 0.1 m
+Packing Factor: 0.74
+Number of Packed Balls: 237433
